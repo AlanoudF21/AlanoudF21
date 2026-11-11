@@ -53,13 +53,6 @@ An Android application designed to help locate missing Hajj and Umrah pilgrims u
 
 - Agentic AI Bootcamp – 2026
 
-## 🌱 Areas of Interest
-
-- Software Development
-- Artificial Intelligence
-- Data Analysis
-- Problem Solving
-
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/alanoudf-alharbi
