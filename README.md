@@ -35,7 +35,7 @@ Opportunities as a **Mobile App Developer**, **Junior Data Analyst**, or **Junio
 
 ## 🚀 Featured Projects
 
-### MindCompass – Agentic AI Tutoring Web Application
+### 1. MindCompass – Agentic AI Tutoring Web Application
 
 A web-based tutoring application designed to provide personalized learning experiences using AI agents and Retrieval-Augmented Generation (RAG).
 
@@ -63,7 +63,6 @@ An Android application designed to help locate missing Hajj and Umrah pilgrims u
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/alanoudf-alharbi
-- GitHub: https://github.com/AlanoudF21
 
 ---
 
