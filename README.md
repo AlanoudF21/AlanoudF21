@@ -1,4 +1,4 @@
-# Hi, I'm Alanoud Alharbi 👋
+# Hi, I'm Alanoud Alharbi 
 
 🎓 Computer Science Graduate | Saudi Arabia
 
@@ -6,7 +6,8 @@ I'm a Computer Science graduate from Taibah University with an interest in techn
 
 I enjoy exploring new technologies, developing practical solutions, and continuously improving my technical skills.
 
-My interests include Software Development, Artificial Intelligence, and Data Analysis.
+## 🎯 Currently Looking For
+Opportunities as a **Mobile App Developer**, **Junior Data Analyst**, or **Junior AI/ML Engineer**.
 
 ## 🛠️ Technical Skills
 
